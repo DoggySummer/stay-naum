@@ -3,7 +3,7 @@ import React from 'react'
 
 const Footer = () => {
   return (
-    <footer className="absolute bottom-0 w-screen bg-background-gray01 px-[14vw] py-6 text-sm">
+    <footer className="w-screen bg-background-gray01 px-[14vw] py-6 text-sm">
       <span className="block">
         스테이나음 | 대표자 김민정 | 주소 서울특별시 종로구 자하문로9길 24,
         2층(통인동) | 전화 1670-4123 | 이메일 help@stayfolio.com
